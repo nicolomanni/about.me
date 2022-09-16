@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nicolomanni/about.me" target="blank">
 Nicolò</a></h1>
-<h3 align="center">Crypto enthusiast, DeFi lover, HODLer in his spare time but proudly farmer. Developer the rest of the time.
+<h3 align="center">Crypto enthusiast, DeFi lover, HODLer in his spare time but proudly farmer.<br /><b>Full-Stack Developer</b> the rest of the time.
 </h3>
-<h3 align="center">Cheers from Italy &#127470;&#127481</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolomanni&color=orange&&style=flat" alt="nicolomanni" /></p>
 
@@ -20,7 +19,7 @@ Nicolò</a></h1>
 
 - 🌱 I’m currently learning Solidity && HardHat <a href="https://github.com/nicolomanni/hello-contract" target="blank">HelloContract</a>.
 
-- &#128241; I have developed some applications in Flutter.
+- &#128241; I have developed some applications in Flutter (a framework that I love).
 
 - 📫 How to reach me **nicolo.manni@yahoo.com**
 
@@ -44,3 +43,5 @@ Nicolò</a></h1>
       </div>
 
 </p>
+
+<h3 align="center">Cheers from Italy &#127470;&#127481</h3>

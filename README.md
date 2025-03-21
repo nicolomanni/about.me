@@ -11,7 +11,7 @@ Nicolò</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://evologi.it/" target="blank">Evologi <img src="https://evologi.it/wp-content/uploads/2022/04/cropped-logo.png" width="20" height="20" alt="Evologi" /></a>
+- 🔭 I’m currently working in <a href="https://pareto.credit/" target="blank">Pareto <img src="https://pareto.credit/logos/pareto.svg" width="20" height="20" alt="Pareto" /></a>
 
 - 🌱 I’m currently Working on Mobile App (Ionic) and Frontend App (Angular).
 

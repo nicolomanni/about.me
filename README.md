@@ -13,9 +13,7 @@ Nicolò</a></h1>
 
 - 🔭 I’m currently working in <a href="https://pareto.credit/" target="blank">Pareto <img src="https://pareto.credit/logos/pareto.svg" width="20" height="20" alt="Pareto" /></a>
 
-- 🌱 I’m currently Working on Mobile App (Ionic) and Frontend App (Angular).
-
-- 🤝 I’m available for freelancing.
+- 🌱 I’m currently working on Web3 DeFi apps (React + Next.js) and JS servers (Nodejs + Fastify) all well organized in a Nx monorepo ❤️.
 
 - 🌱 I’m currently learning Solidity && HardHat <a href="https://github.com/nicolomanni/hello-contract" target="blank">HelloContract</a>.
 

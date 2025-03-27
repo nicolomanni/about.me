@@ -8,7 +8,8 @@ Nicolò</a></h1>
 <p align="left"> <a href="https://twitter.com/NikAndMan" target="blank"><img src="https://img.shields.io/twitter/follow/NikAndMan?logo=twitter&style=for-the-badge" alt="NikAndMan" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/nicolomanni/about.me/blob/master/nikiman.png">
 </a>
 
 - 🔭 I’m currently working in <a href="https://pareto.credit/" target="blank">Pareto <img src="https://pareto.credit/logos/pareto.svg" width="20" height="20" alt="Pareto" /></a>
@@ -23,7 +24,7 @@ Nicolò</a></h1>
 
 - 📄 More about <a href="http://nicolomanni.com/en/" target="blank">me</a>
 <br/>
-<h3 align="center" > <img src="https://github.com/nicolomanni/about.me/blob/master/nikiman.png" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 

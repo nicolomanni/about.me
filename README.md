@@ -9,7 +9,7 @@ Nicolò</a></h1>
 
 <a target="_blank" align="center">
   <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/nicolomanni/about.me/blob/master/nikiman.png">
+  <img align="right" top="500" width="400" alt="GIF" src="https://github.com/nicolomanni/about.me/blob/master/nikiman.png">
 </a>
 
 - 🔭 I’m currently working in <a href="https://pareto.credit/" target="blank">Pareto <img src="https://pareto.credit/logos/pareto.svg" width="20" height="20" alt="Pareto" /></a>

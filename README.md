@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nicolomanni/about.me" target="blank">
 Nicolò</a></h1>
-<h3 align="center">Crypto enthusiast, DeFi lover, HODLer in his spare time but proudly farmer.<br /><b>Full-Stack Developer</b> the rest of the time.
+<h3 align="center">Crypto enthusiast, DeFi lover, HODLer in his spare time but proudly farmer.<br /><b>Full-Stack Web3 Developer</b> the rest of the time.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolomanni&color=orange&&style=flat" alt="nicolomanni" /></p>
